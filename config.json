@@ -1,0 +1,60 @@
+[
+  {
+    "resource": "lenta",
+    "title": {
+      "tag": "div",
+      "class": "topic-body",
+      "secondTag": "h1",
+      "secondClass": "topic-body__titles"
+    },
+    "subtitle": {
+      "tag": "div",
+      "class": "topic-body", 
+      "secondTag": "div",
+      "secondClass": "topic-body__title-yandex"
+    },
+    "text": {
+      "tag": "p",
+      "class": "topic-body__content-text"
+    }
+  },
+  {
+    "resource": "gazeta",
+    "title": {
+      "tag": "div",
+      "class": "b_article-header",
+      "secondTag": "h1",
+      "secondClass": "headline"
+    },
+    "subtitle": {
+      "tag": "div",
+      "class": "b_article-intro",
+      "secondTag": "span",
+      "secondClass": "intro"
+    },
+    "text": {
+      "tag": "div",
+      "class": "b_article-text",
+      "secondTag": "p"
+    }
+  },
+    {
+    "resource": "ria",
+    "title": {
+      "tag": "div",
+      "class": "article__header",
+      "secondTag": "div",
+      "secondClass": "article__title"
+    },
+    "subtitle": {
+      "tag": "div",
+      "class": "article__header",
+      "secondTag": "h1",
+      "secondClass": "article__title"
+    },
+    "text": {
+      "tag": "div",
+      "class": "article__text"
+    }
+  }
+]
